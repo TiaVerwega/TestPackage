@@ -1,7 +1,7 @@
 import numpy as np
 
 def function(data):
-    n = 5
+    result = np.sqrt(data)
     
-    return data * n
+    return result
     
